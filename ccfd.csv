@@ -1,0 +1,50 @@
+trans_date_trans_time,merchant,category,amt,city,state,lat,long,city_pop,job,dob,trans_num,merch_lat,merch_long,is_fraud
+01-01-2019 00:00,"""Heller, Gutmann and Zieme""",grocery_pos,107.23,Orient,WA,48.8878,-118.2105,149,Special educational needs teacher,21-06-1978,1f76529f8574734946361c461b024d99,49.159047,-118.186462,0
+01-01-2019 00:00,Lind-Buckridge,entertainment,220.11,Malad City,ID,42.1808,-112.262,4154,Nature conservation officer,19-01-1962,a1a22d70485983eac12b5b88dad1cf95,43.150704,-112.154481,0
+01-01-2019 00:07,Kiehn Inc,grocery_pos,96.29,Grenada,CA,41.6125,-122.5258,589,Systems analyst,21-12-1945,413636e759663f264aae1819a4d4f231,41.65752,-122.230347,0
+01-01-2019 00:09,Beier-Hyatt,shopping_pos,7.77,High Rolls Mountain Park,NM,32.9396,-105.8189,899,Naval architect,30-08-1967,8a6293af5ed278dea14448ded2685fea,32.863258,-106.520205,0
+01-01-2019 00:21,Bruen-Yost,misc_pos,6.85,Freedom,WY,43.0172,-111.0292,471,"""Education officer, museum""",02-08-1967,f3c43d336e92a44fc2fb67058d5949e3,43.753735,-111.454923,1
+01-01-2019 00:22,Kunze Inc,grocery_pos,90.22,Honokaa,HI,20.0827,-155.488,4878,Physiotherapist,03-12-1966,95826e3caa9e0b905294c6dae985aec1,19.560013,-156.045889,0
+01-01-2019 00:22,"""Nitzsche, Kessler and Wol""",shopping_pos,4.02,Valentine,NE,42.8062,-100.6215,4005,Network engineer,15-03-1945,20490f3f0966ce74b4aaba8dc2c4ed52,42.47559,-101.265846,0
+01-01-2019 00:22,"""Kihn, Abernathy and Douglas""",shopping_net,3.66,Westfir,OR,43.7575,-122.481,597,Forensic psychologist,19-05-1961,870c92b288a974a2faf1f24b05c27e33,44.278191,-121.815161,1
+01-01-2019 00:31,Ledner-Pfannerstill,gas_transport,102.13,Thompson,UT,38.9999,-109.615,46,"""Surveyor, minerals""",23-04-1987,47238da5b40d126c8abea40a857c7809,39.807313,-109.348294,0
+01-01-2019 00:34,Stracke-Lemke,grocery_pos,83.07,Conway,WA,48.34,-122.3456,85,"""Research officer, political party""",01-09-1984,9b7a0619dcc5c572dc134f2827ed5a6b,48.682111,-122.719904,0
+01-01-2019 00:40,Cummerata-Jones,gas_transport,70.53,Athena,OR,45.8289,-118.4971,1302,Dealer,18-10-1976,7b91bd200c11c5cd24b43694e12b5bbc,46.043252,-117.962133,0
+01-01-2019 00:41,Huel-Langworth,misc_net,177.57,Thompson,UT,38.9999,-109.615,46,"""Surveyor, minerals""",23-04-1987,048dc7fc7ae8efd51f59f7176e6a8bd7,38.419431,-109.380252,0
+01-01-2019 00:46,"""Ferry, Lynch and Kautze""",misc_net,2.76,San Jose,CA,37.3304,-121.7913,973849,Science writer,12-06-1955,70ca7fe41f09770d724a027152dcb9f0,37.548452,-121.536454,1
+01-01-2019 00:49,"""Little, Gutmann and Lynch""",shopping_net,83.52,Ravenna,NE,41.0233,-98.9041,2202,"""Solicitor, Scotland""",21-06-1974,5f7aafc802c8acb5924041bca310040f,40.992141,-98.831582,0
+01-01-2019 00:56,"""Swaniawski, Lowe and Robel""",shopping_pos,317.14,Parks,AZ,35.2563,-111.95,759,"""Geologist, engineering""",28-03-1957,3fe3286b0ea3f8c8857ec2e3da17b853,35.268124,-112.682895,0
+01-01-2019 00:56,"""Reichert, Huels and Hoppe""",shopping_net,113.4,Fort Washakie,WY,43.0048,-108.8964,1645,Freight forwarder,26-02-1976,9d660a18154a3ba5fe869f373c6f819c,42.868965,-108.50335,0
+01-01-2019 01:00,Howe Lt,misc_pos,218.71,Littleton,CO,39.5994,-105.0044,320420,Water engineer,31-07-1975,43204045928cb3449edc63078a75b48c,39.335171,-104.102882,0
+01-01-2019 01:02,Wolf Inc,grocery_pos,89.11,Meadville,MO,39.7795,-93.3014,964,Tourist information centre manager,23-12-1974,1cb03ad950bab1ca74b02500644ec1ba,40.773306,-92.821257,0
+01-01-2019 01:04,Vandervort-Funk,grocery_pos,50.68,Moab,UT,38.5677,-109.5271,9772,Location manager,24-11-1989,61861370b5c31b9c00fd949124944d7a,38.482541,-108.853856,0
+01-01-2019 01:09,Ledner-Pfannerstill,gas_transport,90.54,Hawthorne,CA,33.9143,-118.3493,93193,"""Editor, magazine features""",19-04-1995,295b782f9fa48f76f508179ec6412f9d,32.990285,-117.836803,0
+01-01-2019 01:19,"""Schaefer, McGlynn and Bosco""",gas_transport,51.33,Manville,WY,42.73,-104.7024,241,Educational psychologist,16-12-1980,a8af4c635415817aaeea5cbbe380e010,42.508248,-105.34481,0
+01-01-2019 01:22,Fisher-Schowalte,shopping_net,226.33,June Lake,CA,37.7773,-119.0825,633,Health service manager,09-09-1927,208e003f309f9db37b3c40ddc9271908,36.819789,-119.670559,0
+01-01-2019 01:23,Medhurst PLC,shopping_net,215.99,Sixes,OR,42.825,-124.4409,217,Retail merchandiser,01-10-1928,e13482d8e24ed41362ff84bb9f100623,42.988724,-123.904978,1
+01-01-2019 01:23,Kerluke Inc,misc_net,1.47,Holstein,NE,40.4542,-98.6538,331,Telecommunications researcher,19-08-1950,6569a85a160476c677bf9a4c2da40cfd,41.14486,-99.38762,0
+01-01-2019 01:23,Bauch-Rayno,grocery_pos,122.05,Westerville,NE,41.4193,-99.3844,73,Product designer,10-02-1935,d83aa7370cef2c7a209118f313d0b360,41.609064,-99.650276,0
+01-01-2019 01:34,Hills-Olson,grocery_net,27.03,Ballwin,MO,38.577,-90.5255,92608,"""Engineer, communications""",26-07-2001,011f7fc2db063dc3f63219a76e052ace,38.984909,-90.842219,0
+01-01-2019 01:36,Durgan-Aue,misc_net,23.8,Fields Landing,CA,40.7268,-124.2174,276,"""Scientist, audiological""",06-05-1929,98fec127a1545ec4dad787e5326bd374,40.110823,-124.429537,0
+01-01-2019 01:41,Pacocha-Bauch,shopping_pos,2.1,Grenada,CA,41.6125,-122.5258,589,Systems analyst,21-12-1945,53fb041938a6e239a2e1679d27a7f9c2,41.096733,-122.623454,0
+01-01-2019 01:50,"""Reilly, Heaney and Cole""",gas_transport,67.91,Fields Landing,CA,40.7268,-124.2174,276,"""Scientist, audiological""",06-05-1929,8e364131ffb75a95c9a04b304c9994e4,41.137569,-123.63216,0
+01-01-2019 02:06,Bradtke PLC,grocery_pos,78.13,Louisiana,MO,39.4336,-91.0664,4593,"""Teacher, early years/pre""",11-11-1940,e46a01d459665d3466b3a2148eb80f4e,40.247129,-91.699005,1
+01-01-2019 02:08,"""Zieme, Bode and Dooley""",gas_transport,52.67,Kansas City,MO,38.9621,-94.5959,545147,Counsellor,18-11-1987,29768857d3597be571bce4497a48c735,39.662816,-93.712244,0
+01-01-2019 02:08,Hills-Witting,shopping_net,2.11,Mesa,ID,44.6255,-116.4493,129,Cartographer,15-12-1965,3749d51cb61d34bcaae08fcbee53fceb,44.710102,-117.229968,0
+01-01-2019 02:12,"""Bernhard, Grant and Langworth""",shopping_pos,1.42,Westerville,NE,41.4193,-99.3844,73,Product designer,10-02-1935,0020b02e5638ee80c7176007e1b483fa,40.790587,-99.011834,0
+01-01-2019 02:12,Lockman Lt,grocery_pos,104.08,Lonetree,WY,41.0552,-110.1603,49,Research scientist (physical sciences),05-07-1981,991f851c15545feaa5c0c90e264a66a3,41.677942,-110.829354,0
+01-01-2019 02:13,Harber Inc,gas_transport,39.98,Centerview,MO,38.7897,-93.8702,2368,Electronics engineer,17-07-1989,f8ab97ed82e0669c50d3d8a60baf9c64,38.995701,-93.569356,0
+01-01-2019 02:14,Bauch-Rayno,grocery_pos,192.82,Colorado Springs,CO,38.8881,-104.6556,525713,Museum/gallery exhibitions officer,09-05-1992,3dcdb9b61cc3770b9c8b78818173e6d6,39.299824,-103.854765,0
+01-01-2019 02:20,"""Kerluke, Kertzmann and Wiz""",misc_net,6.37,Hawthorne,CA,33.9143,-118.3493,93193,"""Editor, magazine features""",19-04-1995,bcff0b6c116a2ed80b212aa3acb07195,34.108257,-117.549012,0
+01-01-2019 02:21,"""Johnston, Nikolaus and Maggio""",grocery_net,41.01,Blairsden-Graeagle,CA,39.8127,-120.6405,1725,Chartered legal executive (England and Wales),27-05-1967,ff342d2dad68412cbc24eb27b2370291,39.949197,-119.792299,0
+01-01-2019 02:26,Torp-Labadie,gas_transport,49.53,Freedom,WY,43.0172,-111.0292,471,"""Education officer, museum""",02-08-1967,c09831d3ebf12b67982f193d03162974,43.038723,-111.821595,0
+01-01-2019 02:28,Doyle Lt,grocery_pos,157.07,Cardwell,MO,36.0434,-90.2907,1120,Television floor manager,17-04-1957,2718171b5be46962b081ee742ed3cd42,35.632995,-89.589641,0
+01-01-2019 02:31,McDermott-Rice,misc_pos,13.67,Kansas City,MO,38.9621,-94.5959,545147,Counsellor,18-11-1987,49b8ff92b52599bc8c265d0b8d008593,38.058492,-94.687196,0
+01-01-2019 02:32,Spinka Inc,grocery_net,57.57,Phoenix,AZ,33.5623,-112.0559,1312922,Contractor,24-10-1981,0bffbd021d632206028c981630007c12,32.635757,-112.195886,0
+01-01-2019 02:33,McGlynn-Jaskolski,misc_pos,99.08,Newhall,CA,34.3795,-118.523,34882,Health physicist,25-04-1971,56821cb1d8c2c3d57299cc01bfd2e071,34.370236,-118.195791,0
+01-01-2019 02:37,Schmitt Lt,misc_net,29.19,Tomales,CA,38.2427,-122.9145,337,Occupational psychologist,05-07-1954,d51dc2a26160f1425df51982c6d05257,38.882246,-122.050228,1
+01-01-2019 02:42,Donnelly PLC,misc_net,185.04,Redford,MO,37.3272,-91.0243,241,Investment analyst,27-10-1974,0a630c19d0ef93f9d262d0ef9bff9358,36.518512,-91.363405,0
+01-01-2019 02:42,"""Kutch, Hermiston and Farrell""",gas_transport,48.66,Weeping Water,NE,40.8731,-96.1528,1517,Dealer,08-11-1951,61efe8834c23dea4a334ea06a4dc293d,41.066297,-95.412102,0
+01-01-2019 02:46,Torp-Lemke,misc_pos,3.32,Portland,OR,45.5303,-122.7033,841711,"""Engineer, building services""",04-04-1963,900f6896c69d904420bec5e52cf49a95,44.727585,-123.282623,0
+01-01-2019 02:54,Kassulke PLC,shopping_net,1055.47,Iliff,CO,40.7692,-103.0968,648,Community arts worker,21-09-1969,adca67d0a40b26fb8afeccbae31b7828,39.940564,-103.528231,0
+01-01-2019 02:56,Dach-Nade,misc_net,16.65,Burlington,WA,48.4786,-122.3345,14871,Public house manager,10-03-1974,ffdaa290d0841d7babaf495aab382031,49.073601,-122.924793,0
